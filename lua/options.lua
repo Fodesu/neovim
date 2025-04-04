@@ -11,6 +11,7 @@ o.laststatus = 3
 o.showmode = true
 
 o.clipboard = "unnamedplus"
+o.termguicolors = true
 --- 行高亮， 设置高亮一整行
 o.cursorline = true
 o.cursorlineopt = "line"

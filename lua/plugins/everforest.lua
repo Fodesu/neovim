@@ -8,5 +8,6 @@ return {
     require("everforest").setup({
       -- Your config here
     })
+    require("everforest").load()
   end,
 }
